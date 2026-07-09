@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "userId": "user-1",
+      "email": "barbrah361@gmail.com",
+      "displayName": "Barbrah Kipruto",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200",
+      "isVerified": true
+    }
+  ],
+  "savedJourneys": [
+    {
+      "id": "j-1",
+      "userId": "user-1",
+      "countyId": "mombasa",
+      "year": 1963,
+      "savedAt": "2026-07-07T18:24:41.089Z",
+      "notes": "Reliving Mombasa during the glorious day of Kenyan Independence!"
+    },
+    {
+      "id": "j-2",
+      "userId": "user-1",
+      "countyId": "nairobi",
+      "year": 2050,
+      "savedAt": "2026-07-08T13:24:41.090Z",
+      "notes": "Exploring the breathtaking vertical algae towers of Solarpunk Nairobi."
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "title": "First Jump",
+      "description": "Initiated your very first time travel journey into Kenya's past.",
+      "unlockedAt": "2026-07-07T18:24:41.090Z",
+      "icon": "Plane"
+    },
+    {
+      "id": "ach-2",
+      "title": "Mau Mau Historian",
+      "description": "Explored the forest struggle in 1952 and read Field Marshal Dedan Kimathi's records.",
+      "unlockedAt": "2026-07-07T20:24:41.090Z",
+      "icon": "BookOpen"
+    },
+    {
+      "id": "ach-3",
+      "title": "Visionary Pioneer",
+      "description": "Traveled into the speculative solarpunk future of 2050.",
+      "unlockedAt": "2026-07-08T13:24:41.090Z",
+      "icon": "Sparkles"
+    }
+  ],
+  "articles": [
+    {
+      "id": "art-1",
+      "title": "The Uganda Railway: The Iron Snake That Crafted a Nation",
+      "category": "infrastructure",
+      "content": "The Uganda Railway was named 'The Iron Snake' by the Nandi prophet Kimnyole, who foresaw a black snake crawling through the land devouring everything. Completed in 1901, it cost the British Treasury over £5 million and thousands of human lives, but it laid the physical foundation of modern Kenya, birthing Nairobi from a cold, swampy railhead.",
+      "yearContext": 1900,
+      "tags": [
+        "railway",
+        "nairobi",
+        "colonial"
+      ]
+    },
+    {
+      "id": "art-2",
+      "title": "The Freedom Songs of the Central Forest",
+      "category": "culture",
+      "content": "Deep in the Aberdare and Mount Kenya forests, Mau Mau fighters sustained their spirit through song. They took Christian missionary hymns and re-wrote the lyrics into powerful anthems of land reclaiming, military courage, and unity, coding secret movements inside musical rhythm.",
+      "yearContext": 1952,
+      "tags": [
+        "maumau",
+        "resistance",
+        "culture"
+      ]
+    },
+    {
+      "id": "art-3",
+      "title": "The Olkaria Steam Revolution: Powering 95% Green Growth",
+      "category": "nature",
+      "content": "Deep inside Hell's Gate National Park in Naivasha lies one of the world's greatest renewable energy complexes. Olkaria taps the super-heated geothermal steam of the Great Rift Valley, turning roaring vents into pure electricity that powers over 90% of present-day Kenyan grids, setting a spectacular global benchmark.",
+      "yearContext": 2026,
+      "tags": [
+        "greenenergy",
+        "geothermal",
+        "nature"
+      ]
+    }
+  ],
+  "feedbackLogs": []
+}

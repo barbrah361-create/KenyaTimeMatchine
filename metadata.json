@@ -1,0 +1,6 @@
+{
+  "name": "World Time Machine – Kenya Edition",
+  "description": "An immersive, Afro-Futuristic 3D luxury voyage through Kenya's rich history, culture, and speculative future, powered by server-side Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,900;1,400&family=Inter:wght@300;400;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", sans-serif;
+  --font-serif: "Playfair Display", serif;
+  --color-brand-green: #050A05;
+  --color-brand-cream: #F8F5E9;
+  --color-brand-gold: #D4AF37;
+  --color-brand-brown: #5D4037;
+  --color-brand-forest: #1B5E20;
+}
+
+/* Glass panel style from Design HTML */
+.glass-panel {
+  background: rgba(27, 94, 32, 0.15);
+  backdrop-filter: blur(24px);
+  border: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.gold-glow {
+  box-shadow: 0 0 30px rgba(212, 175, 55, 0.15);
+}
+
+/* Base resets */
+body {
+  background-color: #050A05;
+  color: #F8F5E9;
+}
